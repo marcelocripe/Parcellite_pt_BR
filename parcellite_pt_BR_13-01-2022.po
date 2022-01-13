@@ -372,7 +372,7 @@ msgstr "S_incronizar as áreas de transferência"
 
 
 msgid "This is the Action Name. \nDO NOT put commands here."
-msgstr "Este é o Nome da Ação. \nNÃO insira comandos aqui."
+msgstr "Este é o Nome da Ação. \nNÃO insira os comandos aqui."
 
 msgid ""
 "This string will be inserted between each line of history for paste all."
