@@ -396,8 +396,8 @@ msgstr "Utilizar a Seleção _Primária"
 
 msgid "Written by Gilberto \"Xyhthyx\" Miralla and Doug Springer.\nReport bugs to <gpib@rickyrockrat.net>."
 msgstr ""
-"Escrito por Gilberto \"Xyhthyx\" Miralla e Doug Springer.\nReportar erros "
-"ou falhas para <gpib@rickyrockrat.net>."
+"Escrito por Gilberto \"Xyhthyx\" Miralla e Doug Springer.\nReportar os erros ou "
+"as falhas para <gpib@rickyrockrat.net>."
 
 msgid "X"
 msgstr "X"
