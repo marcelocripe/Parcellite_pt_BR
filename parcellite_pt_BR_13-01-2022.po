@@ -386,7 +386,7 @@ msgid "Trim Whitespace"
 msgstr "Eliminar o Espaço em Branco"
 
 msgid "Use Alt-E to edit, Alt-C to clear"
-msgstr "Utilizar o comando Alt+E para editar, Alt+C para limpar"
+msgstr "Utilizar o comando Alt+E para editar e Alt+C para limpar"
 
 msgid "Use _Copy (Ctrl-C)"
 msgstr "Utilizar o comando _Copiar (Ctrl+C)"
